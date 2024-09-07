@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(color.GreenString("Hello, добрый путник"))
+	fmt.Println(color.GreenString("Hello, добрый путник!"))
 }
