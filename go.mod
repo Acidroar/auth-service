@@ -1,4 +1,4 @@
-module github.com/Acidroar/Practice
+module github.com/Acidroar/auth-service
 
 go 1.23.0
 
